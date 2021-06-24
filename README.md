@@ -1,4 +1,4 @@
-# HCPSegmentation
+# HCP Segmentation
 Goal - Segment HCPs using prescription data
 Three steps - 
 1. Identify customer characteristics that influence purchasing behavior
